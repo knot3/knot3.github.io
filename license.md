@@ -5,32 +5,23 @@ title: Knot3 - License
 
 # License
 
-﻿  Copyright (C) 2013-2014 Tobias Schulz, Maximilian Reuter, Pascal Knodel,
-                          Gerd Augsburg, Christina Erler, Daniel Warzel
+﻿Copyright (C) 2013-2014 Tobias Schulz, Maximilian Reuter, Pascal Knodel, Gerd Augsburg, Christina Erler, Daniel Warzel
 
-  Copying, redistribution and use of source code written by Tobias Schulz,
-  Pascal Knodel, Maximilian Reuter, Gerd Augsburg, Daniel Warzel and
-  Christina Erler in source and binary forms, with or without modification,
-  are permitted provided that the conditions of the MIT license are met:
-  http://choosealicense.com/licenses/mit/
+Copying, redistribution and use of source code written by Tobias Schulz (@tobiasschulz), Pascal Knodel, Maximilian Reuter, Gerd Augsburg, Daniel Warzel and Christina Erler in source and binary forms, with or without modification, are permitted provided that the conditions of the MIT license are met: http://choosealicense.com/licenses/mit/
 
-  The 3D models for pipes, junctions and arrows are from Torsten Pelzer
-  and are dedicated to the public domain:
-  http://creativecommons.org/publicdomain/zero/1.0/
+The 3D models for pipes, junctions and arrows are from Torsten Pelzer and are dedicated to the public domain: http://creativecommons.org/publicdomain/zero/1.0/
 
-  The sound effects are licensed under the CC BY 3.0 license:
-  http://creativecommons.org/licenses/by/3.0/
+The sound effects are licensed under the CC BY 3.0 license: http://creativecommons.org/licenses/by/3.0/
 
-    * Thud Dry (by juskiddink)
-      CC BY 3.0
-      http://www.freesound.org/people/juskiddink/sounds/108617/
+* Thud Dry (by juskiddink)
+  CC BY 3.0
+  http://www.freesound.org/people/juskiddink/sounds/108617/
 
-    * PVC pipe sound from a toiletpaper-roll-holder-thingy (by schademans)
-      CC BY 3.0
-      http://www.freesound.org/people/schademans/sounds/13290/
+* PVC pipe sound from a toiletpaper-roll-holder-thingy (by schademans)
+  CC BY 3.0
+  http://www.freesound.org/people/schademans/sounds/13290/
 
-  The music is licensed under the CC BY-NC-SA 3.0 license:
-  http://creativecommons.org/licenses/by-nc-sa/3.0/
+The music is licensed under the CC BY-NC-SA 3.0 license: http://creativecommons.org/licenses/by-nc-sa/3.0/
 
     * Long Time Coming (by Easy Rider)
       CC BY-NC-ND 3.0
