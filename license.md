@@ -32,5 +32,5 @@ The music is licensed under the [CC BY-NC-SA 3.0 license](http://creativecommons
 
 The design is based on mockups and ideas from G. Hoffmann (Staatliche Hochschule für Gestaltung, Karlsruhe), which are licensed under the [CC BY-NC-SA 4.0 license](http://creativecommons.org/licenses/by-nc-sa/4.0/deed.de).
 
-The game concept was designed through the collaborative work of M. Retzlaff, F. Kalka, G. Hoffmann, T. Schmidt, G. Mückl.
+The game concept was designed through the collaborative work of [M. Retzlaff](https://cg.ivd.kit.edu/retzlaff/), [G. Hoffmann](http://postdigital.hfg-karlsruhe.de/users/greta-luise-hoffmann) and [T. Schmidt](https://cg.ivd.kit.edu/schmidt/index.php).
 
