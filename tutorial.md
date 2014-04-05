@@ -51,7 +51,7 @@ Kamerasteuerung:
     :   Zoomt die Kamera rein bzw. raus.
 
 Kanten Selektieren:
-    Linke Maustaste:
+:   Linke Maustaste:
     :   Ein Klick auf eine nicht markierte Kante macht diese zur
         Selektierten.
 
