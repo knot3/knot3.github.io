@@ -140,14 +140,14 @@ pre {
     margin: 50px 50px 50px 50px;
 }
 
-.simplelist a {
+.simplelist a, #content a {
     display: block;
     color: #4682B4;
     text-decoration: none;
     margin: 10px 10px 10px 10px;
 }
 
-.simplelist a:hover {
+.simplelist a:hover, #content a:hover {
     text-decoration: underline;
 }
 
