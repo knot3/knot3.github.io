@@ -3,23 +3,16 @@ layout: default
 title: Knot&sup3; - Spielanleitung
 ---
 # Spielanleitung
-Einleitung {#einleitung .unnumbered}
-==========
 
-Willkommen bei dem großartigem Spiel für alle Kreativen und
-Knobelwilligen. Knot$^3$ dir die Möglichkeit aus einem minimalen
-Ausgangsknoten ein komplexes Gebilde zu schaffen, das andere in
-Erstaunen versetzt. Dabei sind der Kreativität kaum Grenzen gesetzt und
-heißt damit auch zurecht im Spiel Creative Mode.
+## Einleitung
 
-Wer etwas mehr Herausforderungen sucht und tolle Knoten anderer Spieler
-auf Zeit nachbauen will, für den ist der Challenge Mode. Man Kann auch
-eigene Herausforderungen erstellen, aber dazu später mehr.
+Willkommen bei dem großartigem Spiel für alle Kreativen und Knobelwilligen. Knot$^3$ dir die Möglichkeit aus einem minimalen Ausgangsknoten ein komplexes Gebilde zu schaffen, das andere in Erstaunen versetzt. Dabei sind der Kreativität kaum Grenzen gesetzt und heißt damit auch zurecht im Spiel Creative Mode.
+
+Wer etwas mehr Herausforderungen sucht und tolle Knoten anderer Spieler auf Zeit nachbauen will, für den ist der Challenge Mode. Man Kann auch eigene Herausforderungen erstellen, aber dazu später mehr.
 
 Hinweis: Diese Spielanleitung kann auch als PDF-Datei heruntergeladen werden: [Download Spielanleitung]({{site.baseurl}}doc/Spielanleitung.pdf).
 
-Standard Tastaturbelegung {#standard-tastaturbelegung .unnumbered}
-=========================
+## Standard Tastaturbelegung
 
 Kamerasteuerung:
 :   Die Kamera lässt sich mit der Tastatur und durch gedrückt halten der
@@ -58,8 +51,6 @@ Kamerasteuerung:
     :   Zoomt die Kamera rein bzw. raus.
 
 Kanten Selektieren:
-:   \
-
     Linke Maustaste:
     :   Ein Klick auf eine nicht markierte Kante macht diese zur
         Selektierten.
@@ -87,39 +78,24 @@ C:
 F11:
 :   Wechselt in den Vollbildmodus.
 
-Menüführung {#menüführung .unnumbered}
-===========
+## Menüführung
 
-Beim Start des Spiels landet man im Hauptmenü. Dort hat man die Auswahl
-zu:
+Beim Start des Spiels landet man im Hauptmenü. Dort hat man die Auswahl zu:
 
 Creative:
-:   Hier dreht sich alles um das Erstellen und neuer Inhalte. Man kann
-    einen neuen Knoten erstellen beginnend vom minimalen Knoten oder
-    bereits erstellte laden und weiter bearbeiten. Hier sind auch schon
-    ein paar Knoten zur Inspiration mitgeliefert. Auch das Erstellen
-    neuer Herausforderungen findet hier statt. Einfach zwei
-    unterschiedliche Knoten auswählen, auf der linken Seite den
-    Ausgangsknoten und auf der rechten Seite das Ziel der
-    Herausforderung, einen Namen eingeben und fertig.
+:   Hier dreht sich alles um das Erstellen und neuer Inhalte. Man kann einen neuen Knoten erstellen beginnend vom minimalen Knoten oder bereits erstellte laden und weiter bearbeiten. Hier sind auch schon ein paar Knoten zur Inspiration mitgeliefert. Auch das Erstellen neuer Herausforderungen findet hier statt. Einfach zwei unterschiedliche Knoten auswählen, auf der linken Seite den Ausgangsknoten und auf der rechten Seite das Ziel der Herausforderung, einen Namen eingeben und fertig.
 
 Challenge:
-:   Hier können die fertigen Herausforderungen betrachtet und gestartet
-    werden. In der rechten Vorschau sieht man den Zielknoten, sowie
-    einige Infos. Die Vorschau ist interaktiv und die Kamera kann wie im
-    Spiel gedreht und bewegt werden.
+:   Hier können die fertigen Herausforderungen betrachtet und gestartet werden. In der rechten Vorschau sieht man den Zielknoten, sowie einige Infos. Die Vorschau ist interaktiv und die Kamera kann wie im Spiel gedreht und bewegt werden.
 
 Settings:
 :   Hier finden sich alle Einstellungen zum Spiel.
 
-Tutorial {#tutorial .unnumbered}
-========
+## Tutorial
 
-Die ersten 5 Level im Challenge Mode bauen aufeinander auf und sind als
-Tutorial gedacht.
+Die ersten 5 Level im Challenge Mode bauen aufeinander auf und sind als Tutorial gedacht.
 
-Level 1 {#level-1 .unnumbered}
--------
+### Level 1
 
 Willkommen bei Knot$^3$.
 
@@ -129,29 +105,25 @@ bewege sie in die gewünschte Richtung. Es sind drei
 Transformationsschritte notwendig um die Challenge zu bestehen. eine in
 jede Raumrichtung.
 
-Level 2 {#level-2 .unnumbered}
--------
+### Level 2
 
 Hier kommen die ersten nicht trivialen Kantenübergänge hinzu. Bedenke,
 dass immer nur vor und hinter eines verschobenen Bereichs neue Kanten
 entstehen. Um dieses Level zu bestehen musst du noch wissen, das man die
 Auswahl mehr als einen Schritt ziehen kann.
 
-Level 3 {#level-3 .unnumbered}
--------
+### Level 3
 
 Dieses Level lässt sich auch mit dem bereits bekannten lösen. Allerdings
 solltest du dich mit der Mehrfachselektion vertraut machen. Sie kann dir
 hier Züge sparen.
 
-Level 4 {#level-4 .unnumbered}
--------
+### Level 4
 
 Ab jetzt wird es kompliziert. Hier kommen die ersten Dreifachübergänge.
 Lege dir eine Strategie zurecht, wie du nicht den Überblick verlierst.
 
-Level 5 {#level-5 .unnumbered}
--------
+### Level 5
 
 Falls du die Mehrfachselektion bisher nicht genutzt haben solltest: Tu
 es! Zur Erinnerung, du kannst mit Strg + Mausklick bzw. Shift +
@@ -159,38 +131,33 @@ Mausklick mehrere Kanten auswählen und dann gleichzeitig verschieben. Ab
 jetzt hast du alle Spielelemente kennengelernt und es wird nur noch
 größer und verzwickter.
 
-Level 6 {#level-6 .unnumbered}
--------
+### Level 6
 
 Der Gotische Knoten.
 
 Achtung er ist nicht so gleichmäßig, wie er zunächst scheint. Verfolge
 die Kanten und nutze die dritte Dimension.
 
-Level 7 {#level-7 .unnumbered}
--------
+### Level 7
 
 Knot$^3$
 
 Nicht allzu schwer, aber groß. Baue mit Knot$^3$ Knot$^3$.
 
-Level 8 {#level-8 .unnumbered}
--------
+### Level 8
 
 Der Tie Fighter.
 
 Möge die Macht mit dir sein. Die Enge der Kabine stellt hier die
 Herausforderung da.
 
-Level 9 {#level-9 .unnumbered}
--------
+### Level 9
 
 Das Herz.
 
 Du musst dieses Spiel wirklich lieben. Es ist groß und verzwickt.
 
-Level 10 {#level-10 .unnumbered}
---------
+### Level 10
 
 Der Gordische Knoten.
 
