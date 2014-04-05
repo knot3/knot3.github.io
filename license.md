@@ -3,11 +3,7 @@ layout: default
 title: Knot3 - License
 ---
 
-# License
-
-﻿Copyright (C) 2013-2014 Tobias Schulz, Maximilian Reuter, Pascal Knodel, Gerd Augsburg, Christina Erler, Daniel Warzel
-
-Copying, redistribution and use of source code written by the following authors in source and binary forms, with or without modification, are permitted provided that the conditions of the [MIT license](http://choosealicense.com/licenses/mit/) are met:
+# Authors
 
 * Tobias Schulz (@tobiasschulz)
 * Pascal Knodel (@pse)
@@ -15,6 +11,11 @@ Copying, redistribution and use of source code written by the following authors 
 * Gerd Augsburg (@Balduro)
 * Daniel Warzel (@wudi0910)
 * Christina Erler (@Sakurachan4)
+
+# License
+
+The source code of Knot3 is free software; you can redistribute it and/or modify it under the terms of the [MIT license](http://choosealicense.com/licenses/mit/).
+Knot3 is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
 
 The 3D models for pipes, junctions and arrows are from Torsten Pelzer and are dedicated to the [public domain](http://creativecommons.org/publicdomain/zero/1.0/).
 
