@@ -3,6 +3,8 @@ layout: default
 title: Knot3 - License
 ---
 
+# License
+
 ~~~
 ﻿  Copyright (C) 2013-2014 Tobias Schulz, Maximilian Reuter, Pascal Knodel,
                           Gerd Augsburg, Christina Erler, Daniel Warzel
