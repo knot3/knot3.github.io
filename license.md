@@ -23,9 +23,8 @@ The sound effects are licensed under the [CC BY 3.0 license](http://creativecomm
 The music is licensed under the [CC BY-NC-SA 3.0 license](http://creativecommons.org/licenses/by-nc-sa/3.0/):
 
 * [Long Time Coming](http://freemusicarchive.org/music/Easy_Rider/Live_on_WFMUs_Distort_Jersey_City_with_Reed_Dunlea_Jan_14_2014/Long_Time_Coming) by Easy Rider
-* [Incidents](http://freemusicarchive.org/music/Jupiter_Makes_Me_Scream_1244/Converge/05_jupiter_makes_me_scream_-_incidents) by Jupiter Makes Me Scream
+* [Incidents](http://freemusicarchive.org/music/Jupiter_Makes_Me_Scream_1244/Converge/05_jupiter_makes_me_scream_-_incidents) and [Shine Shine Shine !!!](http://freemusicarchive.org/music/Jupiter_Makes_Me_Scream_1244/Converge/08_jupiter_makes_me_scream_-_shine_shine_shine) by Jupiter Makes Me Scream
 * [Spiral Beams](http://freemusicarchive.org/music/Frame/Random_Features/13_frame_-_spiral_beams) by Frame
-* [Shine Shine Shine !!!](http://freemusicarchive.org/music/Jupiter_Makes_Me_Scream_1244/Converge/08_jupiter_makes_me_scream_-_shine_shine_shine) by Jupiter Makes Me Scream
 
 The design is based on mockups and ideas from G. Hoffmann (Staatliche Hochschule für Gestaltung, Karlsruhe), which are licensed under the [CC BY-NC-SA 4.0 license](http://creativecommons.org/licenses/by-nc-sa/4.0/deed.de).
 
