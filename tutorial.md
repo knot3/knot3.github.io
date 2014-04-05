@@ -4,13 +4,13 @@ title: Knot&sup3; - Spielanleitung
 ---
 # Spielanleitung
 
+*Hinweis: Diese Spielanleitung kann auch als PDF-Datei heruntergeladen werden: [Download Spielanleitung]({{site.baseurl}}doc/Spielanleitung.pdf).*
+
 ## Einleitung
 
 Willkommen bei dem großartigem Spiel für alle Kreativen und Knobelwilligen. Knot$^3$ dir die Möglichkeit aus einem minimalen Ausgangsknoten ein komplexes Gebilde zu schaffen, das andere in Erstaunen versetzt. Dabei sind der Kreativität kaum Grenzen gesetzt und heißt damit auch zurecht im Spiel Creative Mode.
 
 Wer etwas mehr Herausforderungen sucht und tolle Knoten anderer Spieler auf Zeit nachbauen will, für den ist der Challenge Mode. Man Kann auch eigene Herausforderungen erstellen, aber dazu später mehr.
-
-Hinweis: Diese Spielanleitung kann auch als PDF-Datei heruntergeladen werden: [Download Spielanleitung]({{site.baseurl}}doc/Spielanleitung.pdf).
 
 ## Standard Tastaturbelegung
 
