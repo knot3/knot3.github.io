@@ -6,12 +6,12 @@ title: Knot&sup3; - License
 
 The source code of Knot&sup3; is free software; you can redistribute it and/or modify it under the terms of the [MIT license](http://choosealicense.com/licenses/mit/). It is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. The source code is written by the following authors:
 
-* Tobias Schulz (@tobiasschulz) - Implementation
-* Pascal Knodel (@pse) - Quality assurance
-* Maximilian Reuter (@Maximilian-Reuter) - Product requirements
-* Gerd Augsburg (@Balduro) - Project management
-* Daniel Warzel (@wudi0910) - Presentation
-* Christina Erler (@Sakurachan4) - Software design
+* Tobias Schulz - Implementation (@tobiasschulz)
+* Pascal Knodel - Quality assurance (@pse)
+* Maximilian Reuter - Product requirements (@Maximilian-Reuter)
+* Gerd Augsburg - Project management (@Balduro)
+* Daniel Warzel - Presentation (@wudi0910)
+* Christina Erler - Software design (@Sakurachan4)
 
 The 3D models are from Torsten Pelzer and are dedicated to the [public domain](http://creativecommons.org/publicdomain/zero/1.0/).
 
