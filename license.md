@@ -13,19 +13,13 @@ The 3D models for pipes, junctions and arrows are from Torsten Pelzer and are de
 
 The sound effects are licensed under the CC BY 3.0 license: http://creativecommons.org/licenses/by/3.0/
 
-* Thud Dry (by juskiddink)
-  CC BY 3.0
-  http://www.freesound.org/people/juskiddink/sounds/108617/
+* [Thud Dry (by juskiddink)](http://www.freesound.org/people/juskiddink/sounds/108617/), CC BY 3.0
 
-* PVC pipe sound from a toiletpaper-roll-holder-thingy (by schademans)
-  CC BY 3.0
-  http://www.freesound.org/people/schademans/sounds/13290/
+* [PVC pipe sound from a toiletpaper-roll-holder-thingy (by schademans)](http://www.freesound.org/people/schademans/sounds/13290/), CC BY 3.0
 
 The music is licensed under the CC BY-NC-SA 3.0 license: http://creativecommons.org/licenses/by-nc-sa/3.0/
 
-    * Long Time Coming (by Easy Rider)
-      CC BY-NC-ND 3.0
-      http://freemusicarchive.org/music/Easy_Rider/Live_on_WFMUs_Distort_Jersey_City_with_Reed_Dunlea_Jan_14_2014/Long_Time_Coming
+* [Long Time Coming (by Easy Rider)](http://freemusicarchive.org/music/Easy_Rider/Live_on_WFMUs_Distort_Jersey_City_with_Reed_Dunlea_Jan_14_2014/Long_Time_Coming), CC BY-NC-ND 3.0
 
     * Incidents (by Jupiter Makes Me Scream)
       CC BY-NC-SA 3.0
