@@ -10,7 +10,7 @@ div.part {
     font-family: 'Fauna One', serif;
 }
 
-h4 {
+h1, h2, h3, h4, h5, h6 {
     margin: 0px 0px 15px 0px;
     color: #555555;
 }
