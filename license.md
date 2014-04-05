@@ -5,7 +5,6 @@ title: Knot3 - License
 
 # License
 
-~~~
 ﻿  Copyright (C) 2013-2014 Tobias Schulz, Maximilian Reuter, Pascal Knodel,
                           Gerd Augsburg, Christina Erler, Daniel Warzel
 
@@ -59,4 +58,3 @@ title: Knot3 - License
   The game concept was designed through the collaborative work of
   M. Retzlaff, F. Kalka, G. Hoffmann, T. Schmidt, G. Mückl.
 
-~~~

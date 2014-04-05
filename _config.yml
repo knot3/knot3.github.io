@@ -3,3 +3,5 @@ kramdown:
   input: GFM
 pygments: true
 permalink: /:title
+gems:
+  - jekyll-mentions
