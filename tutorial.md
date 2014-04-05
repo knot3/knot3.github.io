@@ -1,3 +1,8 @@
+---
+layout: default
+title: Knot&sup3; - Spielanleitung
+---
+# Spielanleitung
 Einleitung {#einleitung .unnumbered}
 ==========
 
