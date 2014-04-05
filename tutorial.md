@@ -8,7 +8,7 @@ title: Knot&sup3; - Spielanleitung
 
 ## Einleitung
 
-Willkommen bei dem großartigem Spiel für alle Kreativen und Knobelwilligen. Knot$^3$ dir die Möglichkeit aus einem minimalen Ausgangsknoten ein komplexes Gebilde zu schaffen, das andere in Erstaunen versetzt. Dabei sind der Kreativität kaum Grenzen gesetzt und heißt damit auch zurecht im Spiel Creative Mode.
+Willkommen bei dem großartigem Spiel für alle Kreativen und Knobelwilligen. Knot&sup3; dir die Möglichkeit aus einem minimalen Ausgangsknoten ein komplexes Gebilde zu schaffen, das andere in Erstaunen versetzt. Dabei sind der Kreativität kaum Grenzen gesetzt und heißt damit auch zurecht im Spiel Creative Mode.
 
 Wer etwas mehr Herausforderungen sucht und tolle Knoten anderer Spieler auf Zeit nachbauen will, für den ist der Challenge Mode. Man Kann auch eigene Herausforderungen erstellen, aber dazu später mehr.
 
@@ -97,7 +97,7 @@ Die ersten 5 Level im Challenge Mode bauen aufeinander auf und sind als Tutorial
 
 ### Level 1
 
-Willkommen bei Knot$^3$.
+Willkommen bei Knot&sup3;.
 
 Mache dich zunächst mit der Kamerabewegung vertraut, die Zeit startet
 erst mit dem Bewegen der ersten Kante. Klicke nun eine Kante an und
@@ -140,9 +140,9 @@ die Kanten und nutze die dritte Dimension.
 
 ### Level 7
 
-Knot$^3$
+Knot&sup3;
 
-Nicht allzu schwer, aber groß. Baue mit Knot$^3$ Knot$^3$.
+Nicht allzu schwer, aber groß. Baue mit Knot&sup3; Knot&sup3;.
 
 ### Level 8
 
