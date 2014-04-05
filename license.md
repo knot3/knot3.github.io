@@ -13,7 +13,7 @@ The source code of Knot3 is free software; you can redistribute it and/or modify
 * Daniel Warzel (@wudi0910) - Presentation
 * Christina Erler (@Sakurachan4) - Software design
 
-The 3D models for pipes, junctions and arrows are from Torsten Pelzer and are dedicated to the [public domain](http://creativecommons.org/publicdomain/zero/1.0/).
+The 3D models used in Knot&sup3; are from Torsten Pelzer and are dedicated to the [public domain](http://creativecommons.org/publicdomain/zero/1.0/).
 
 The sound effects are licensed under the [CC BY 3.0 license](http://creativecommons.org/licenses/by/3.0/):
 
