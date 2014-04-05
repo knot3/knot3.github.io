@@ -4,7 +4,7 @@ title: Knot3 - License
 ---
 # License
 
-The source code is free software; you can redistribute it and/or modify it under the terms of the [MIT license](http://choosealicense.com/licenses/mit/). The game is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. The source code is written by the following authors:
+The source code of Knot3 is free software; you can redistribute it and/or modify it under the terms of the [MIT license](http://choosealicense.com/licenses/mit/). It is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. The source code is written by the following authors:
 
 * Tobias Schulz (@tobiasschulz) - Implementation
 * Pascal Knodel (@pse) - Quality assurance
