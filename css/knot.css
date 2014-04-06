@@ -166,3 +166,7 @@ a:hover {
     text-decoration: underline;
 }
 
+.small-footer {
+    font-size: 10pt;
+    text-align: right;
+}
