@@ -159,6 +159,7 @@ pre {
 a {
     color: #4682B4;
     text-decoration: none;
+    white-space: nowrap;
 }
 
 a:hover {
