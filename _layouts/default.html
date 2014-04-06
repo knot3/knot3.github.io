@@ -9,20 +9,23 @@
     <link href='http://fonts.googleapis.com/css?family=Fauna+One' rel='stylesheet' type='text/css'>
     <link rel="stylesheet" href="{{site.baseurl}}css/normalize.css">
     <link rel="stylesheet" href="{{site.baseurl}}css/knot.css">
+    <link rel="stylesheet" href="{{site.baseurl}}css/footer.css">
     <link rel="stylesheet" href="{{site.baseurl}}css/gh-fork-ribbon.css">
   </head>
   <body>
-  <header>
-    {% include header.html %}
-  </header>
-  <nav>
-    {% include navigation.html %}
-  </nav>
-  <article id="content">
-    {{ content }}
-  </article>
-  <footer>
-    {% include footer.html %}
-  </footer>
+  <div id="wrapper">
+    <header>
+      {% include header.html %}
+    </header>
+    <nav>
+      {% include navigation.html %}
+    </nav>
+    <article id="content">
+      {{ content }}
+    </article>
+    <footer>
+      {% include footer.html %}
+    </footer>
+  </div>
 </body>
 </html>
