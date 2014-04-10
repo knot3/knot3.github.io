@@ -1,6 +1,8 @@
 body {
     background: #fafafa;
     color: #111111;
+    font-size: 0.9em;
+    font-weight: normal;
 }
 
 h1, h2, h3, h4, h5, h6 {
@@ -15,19 +17,12 @@ pre {
 table {
     margin-bottom: 20px;
     border-collapse: collapse;
-    font-family: 'Lato', Calibri, Arial, sans-serif;
-    border: none;
-    border-radius: 3px;
-    -webkit-border-radius: 3px;
-    -moz-border-radius: 3px;
+    border:1px solid #dddddd;
 }
 
 table th {
-    font-weight: normal;
-    -webkit-font-smoothing: antialiased;
     padding: 0.6em;
     color: rgba(0,0,0,0.75);
-    font-size: 0.9em;
 }
 
 table td {
