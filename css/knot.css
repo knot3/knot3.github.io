@@ -16,17 +16,18 @@ pre {
 table {
     margin-bottom: 20px;
     border-collapse: collapse;
-    border:1px solid #dddddd;
 }
 
 table th {
     padding: 0.6em;
     color: rgba(0,0,0,0.75);
+    border:1px solid #dddddd;
 }
 
 table td {
     padding: 0.4em 1em 0.4em 1.15em;
     font-size: 0.9em;
+    border:1px solid #dddddd;
 }
 
 .nomargin-left, .nomargin-left a {
