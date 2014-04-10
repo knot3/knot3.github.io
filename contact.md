@@ -22,5 +22,6 @@ Unsere Betreuer waren [![KIT]({{site.baseurl}}img/kit.ico "KIT") M. Retzlaff](ht
 
 Beim Design des Spiels wurden wir von [G. Hoffmann](http://postdigital.hfg-karlsruhe.de/users/greta-luise-hoffmann) von der Staatlichen Hochschule für Gestaltung in Karlsruhe unterstützt.
 
-  Weitere Informationen zum Modul "Praxis der Softwareentwicklung" sind beim [Lehrstuhl für Computergrafik](http://cg.ivd.kit.edu/lehre/ws2013/pse/index.php) von Professor [Dachsbacher](http://cg.ivd.kit.edu/dachsbacher/index.php)
-und beim [Lehrstuhl Programmierparadigmen](http://pp.info.uni-karlsruhe.de/lehre/WS201314/pse/) von Professor [Snelting](http://pp.info.uni-karlsruhe.de/personhp/gregor_snelting.php) zu finden.
+  Weitere Informationen zum Modul "Praxis der Softwareentwicklung" sind beim [Lehrstuhl für Computergrafik](http://cg.ivd.kit.edu/lehre/ws2013/pse/index.php)
+von Professor [Dachsbacher](http://cg.ivd.kit.edu/dachsbacher/index.php) und beim [Lehrstuhl Programmierparadigmen](http://pp.info.uni-karlsruhe.de/lehre/WS201314/pse/)
+von Professor [Snelting](http://pp.info.uni-karlsruhe.de/personhp/gregor_snelting.php) zu finden.
