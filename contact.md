@@ -10,14 +10,14 @@ und wird als nicht-kommerzielle Software unter einer [freien Lizenz](license.htm
 
 Während der Entwicklung im Wintersemester 2013/14 waren die folgenden Studenten in den angegebenen Aufgabengebieten an der Entwicklung beteiligt:
 
-| Name              | Aufgabengebiet             | GitHub              |
-| ----------------- | -------------------------- | ------------------- |
-| Gerd Augsburg     | Projektleitung             | @Balduro            |
-| Maximilian Reuter | Pflichtenheft              | @Maximilian-Reuter  |
-| Christina Erler   | Entwurfsdokument           | @Sakurachan4        |
-| Tobias Schulz     | Implementierung            | @tobiasschulz       |
-| Pascal Knodel     | Qualitätssicherung         | @pse                |
-| Daniel Warzel     | Abschlusspräsentation      | @wudi0910           |
+| Name              | Aufgabengebiet             | GitHub              | Website                       |
+| ----------------- | -------------------------- | ------------------- | ----------------------------- |
+| Gerd Augsburg     | Projektleitung             | @Balduro            | <http://balduro.de.gg/>       |
+| Maximilian Reuter | Pflichtenheft              | @Maximilian-Reuter  |                               |
+| Christina Erler   | Entwurfsdokument           | @Sakurachan4        |                               |
+| Tobias Schulz     | Implementierung            | @tobiasschulz       | <http://www.tobias-schulz.eu> |
+| Pascal Knodel     | Qualitätssicherung         | @pse                |                               |
+| Daniel Warzel     | Abschlusspräsentation      | @wudi0910           |                               |
 
 Unsere Betreuer waren [![KIT]({{site.baseurl}}img/kit.ico "KIT") M. Retzlaff](https://cg.ivd.kit.edu/retzlaff/) (<retzlaff@kit.edu>) und [![KIT]({{site.baseurl}}img/kit.ico "KIT") T. Schmidt](https://cg.ivd.kit.edu/schmidt/index.php) (<thorsten.schmidt@kit.edu>).
 
