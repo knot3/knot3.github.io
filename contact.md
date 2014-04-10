@@ -18,10 +18,7 @@ Während der Entwicklung im Wintersemester 2013/14 waren die folgenden Studenten
 | Pascal Knodel     | Qualitätssicherung         | @pse                |
 | Daniel Warzel     | Abschlusspräsentation      | @wudi0910           |
 
-Unsere Betreuer waren:
-
-* [![KIT]({{site.baseurl}}img/kit.ico "KIT") M. Retzlaff](https://cg.ivd.kit.edu/retzlaff/)
-* [![KIT]({{site.baseurl}}img/kit.ico "KIT") T. Schmidt](https://cg.ivd.kit.edu/schmidt/index.php)
+Unsere Betreuer waren [![KIT]({{site.baseurl}}img/kit.ico "KIT") M. Retzlaff](https://cg.ivd.kit.edu/retzlaff/) und [![KIT]({{site.baseurl}}img/kit.ico "KIT") T. Schmidt](https://cg.ivd.kit.edu/schmidt/index.php).
 
 Beim Design des Spiels wurden wir von [G. Hoffmann](http://postdigital.hfg-karlsruhe.de/users/greta-luise-hoffmann) von der Staatlichen Hochschule für Gestaltung in Karlsruhe unterstützt.
 
