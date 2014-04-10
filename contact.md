@@ -18,9 +18,9 @@ Während der Entwicklung im Wintersemester 2013/14 waren die beteiligten Student
 | Pascal Knodel     | Qualitätssicherung         | @pse                |
 | Daniel Warzel     | Abschlusspräsentation      | @wudi0910           |
 
-Unsere Betreuer:
+Unsere Betreuer waren:
 
 * [![KIT]({{site.baseurl}}img/kit.ico "KIT") M. Retzlaff](https://cg.ivd.kit.edu/retzlaff/)
 * [![KIT]({{site.baseurl}}img/kit.ico "KIT") T. Schmidt](https://cg.ivd.kit.edu/schmidt/index.php)
 
-Weitere Informationen zum Modul "Praxis der Softwareentwicklung" sind beim [Lehrstuhl Programmierparadigmen - IPD Snelting](http://pp.info.uni-karlsruhe.de/lehre/WS201314/pse/) zu finden.
+Weitere Informationen zum Modul "Praxis der Softwareentwicklung" sind beim [Lehrstuhl Programmierparadigmen](http://pp.info.uni-karlsruhe.de/lehre/WS201314/pse/) von Professor [Snelting](http://pp.info.uni-karlsruhe.de/personhp/gregor_snelting.php) zu finden.
