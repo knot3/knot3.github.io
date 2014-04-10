@@ -19,7 +19,7 @@ pre {
     font-size: 0.7em;
 }
 
-.flat-table {
+.flat-table table {
     margin-bottom: 20px;
     border-collapse: collapse;
     font-family: 'Lato', Calibri, Arial, sans-serif;
@@ -78,72 +78,6 @@ pre {
 
 .flat-table-3 tr:hover {
     background: rgba(0,0,0,0.1);
-}
-
-.cov tr {
-    background: #eaeaea;
-}
-
-.cov td {
-    background: #f9f9f9;
-}
-
-.cov-hit, .cov-hit td {
-    background: #adffa4 !important;
-}
-
-.cov-miss, .cov-miss td {
-    background: #ffafa4 !important;
-}
-
-.cov-half, .cov-half td {
-    background: #fffea4 !important;
-}
-
-.cov-invalid, .cov-invalid td {
-}
-
-.cov td {
-    min-width: 200px;
-}
-
-.cov-miss th, .cov-hit th, .cov-half th {
-    text-align: left;
-}
-
-.cov td.small {
-    min-width: 40px;
-}
-
-.cov td.medium {
-    min-width: 90px;
-}
-
-.cov td:hover, .cov tr:hover td {
-    background: rgba(0,0,0,0.02) !important;
-}
-
-.number {
-    text-align: right;
-}
-
-.cov-hit a, .cov-miss a, .cov-half a {
-    text-decoration: none;
-    color: black;
-    padding: 0px 30px 0px 20px;
-}
-
-.simpletext {
-    margin: 0px 50px 50px 50px;
-}
-
-.simplelist {
-    margin: 50px 50px 50px 50px;
-}
-
-.simplelist a {
-    display: block;
-    margin: 10px 10px 10px 10px;
 }
 
 .nomargin-left, .nomargin-left a {
