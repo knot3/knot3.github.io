@@ -5,7 +5,8 @@ title: Contact - Knot&sup3;
 
 # Kontakt
 
-Das Spiel Knot&sup3; ist ein Studentenprojekt des [![KIT]({{site.baseurl}}img/kit.ico "KIT") Karlsruher Instituts für Technologie](http://www.informatik.kit.edu/) und wird als nicht-kommerzielle Software unter einer [freien Lizenz](license.html) zur Verfügung gestellt.
+Das Spiel Knot&sup3; ist ein Studentenprojekt des [![KIT]({{site.baseurl}}img/kit.ico "KIT") Karlsruher Instituts für Technologie](http://www.informatik.kit.edu/)
+und wird als nicht-kommerzielle Software unter einer [freien Lizenz](license.html) zur Verfügung gestellt.
 
 Während der Entwicklung im Wintersemester 2013/14 waren die folgenden Studenten in den angegebenen Aufgabengebieten an der Entwicklung beteiligt:
 
