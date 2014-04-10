@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Knot&sup3; - Download
+title: Download - Knot&sup3;
 ---
 # Download
 

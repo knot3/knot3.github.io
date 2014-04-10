@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Knot&sup3; - Spielanleitung
+title: Spielanleitung - Knot&sup3;
 ---
 # Spielanleitung
 

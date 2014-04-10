@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Knot&sup3; - License
+title: License - Knot&sup3;
 ---
 # License
 
