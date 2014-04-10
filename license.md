@@ -19,14 +19,14 @@ The 3D models are from Torsten Pelzer and are dedicated to the [public domain](h
 
 The sound effects are licensed under the [CC BY 3.0 license](http://creativecommons.org/licenses/by/3.0/):
 
-| Author            | Sound Effect                                                                                                     |
+| Artist            | Sound Effect                                                                                                     |
 | ----------------- | ---------------------------------------------------------------------------------------------------------------- |
 | juskiddink        | [Thud Dry](http://www.freesound.org/people/juskiddink/sounds/108617/)                                            |
 | schademans        | [PVC pipe sound from a toiletpaper-roll-holder-thingy](http://www.freesound.org/people/schademans/sounds/13290/) |
 
 The music is licensed under the [CC BY-NC-SA 3.0 license](http://creativecommons.org/licenses/by-nc-sa/3.0/):
 
-| Author                  | Song                                                                                                                                             |
+| Artist                  | Song                                                                                                                                             |
 | ----------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------ |
 | Easy Rider              | [Long Time Coming](http://freemusicarchive.org/music/Easy_Rider/Live_on_WFMUs_Distort_Jersey_City_with_Reed_Dunlea_Jan_14_2014/Long_Time_Coming) |
 | Jupiter Makes Me Scream | [Incidents](http://freemusicarchive.org/music/Jupiter_Makes_Me_Scream_1244/Converge/05_jupiter_makes_me_scream_-_incidents)                      |
