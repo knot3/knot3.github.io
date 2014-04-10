@@ -96,7 +96,7 @@ Settings:
 Die ersten 5 Level im Challenge Mode bauen aufeinander auf und sind als Tutorial gedacht.
 
 ### Level 1
-
+<div class="screenshot_float"><img src="screenshots/challenge1.png" /></div>
 Willkommen bei Knot&sup3;.
 
 Mache dich zunächst mit der Kamerabewegung vertraut, die Zeit startet

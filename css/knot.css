@@ -171,3 +171,7 @@ a:hover {
     text-align: right;
     padding: 0px 100px 10px 0px;
 }
+
+.screenshot_float {
+    float: right;
+}
