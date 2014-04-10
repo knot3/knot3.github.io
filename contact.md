@@ -26,3 +26,4 @@ Beim Design des Spiels wurden wir von [G. Hoffmann](http://postdigital.hfg-karls
   Weitere Informationen zum Modul "Praxis der Softwareentwicklung" sind beim [Lehrstuhl für Computergrafik](http://cg.ivd.kit.edu/lehre/ws2013/pse/index.php)
 von Professor [Dachsbacher](http://cg.ivd.kit.edu/dachsbacher/index.php) und beim [Lehrstuhl Programmierparadigmen](http://pp.info.uni-karlsruhe.de/lehre/WS201314/pse/)
 von Professor [Snelting](http://pp.info.uni-karlsruhe.de/personhp/gregor_snelting.php) zu finden.
+Das PSE-Projekt des Lehrstuhl für Computergrafik zum Sommersemester 2014 ist [hier](http://cg.ivd.kit.edu/lehre/ss2014/pse/index.php) zu finden.
