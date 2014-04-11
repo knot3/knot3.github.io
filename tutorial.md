@@ -14,7 +14,9 @@ Wer etwas mehr Herausforderungen sucht und tolle Knoten anderer Spieler auf Zeit
 
 ## Standard Tastaturbelegung
 
-Kamerasteuerung: Die Kamera lässt sich mit der Tastatur und durch gedrückt halten der rechten Maustaste steuern.
+**Kamerasteuerung:**
+
+Die Kamera lässt sich mit der Tastatur und durch gedrückt halten der rechten Maustaste steuern.
 
 | Tastenkombination          | Ausgeführte Aktion                                |
 | -------------------------- | ------------------------------------------------- |
@@ -28,7 +30,7 @@ Kamerasteuerung: Die Kamera lässt sich mit der Tastatur und durch gedrückt hal
 | Rechte Maustaste           | Durch das gedrückt halten kann man die Kamera sowohl drehen als auch neigen. Dabei wird zunächst die Kante, die der Maus am nächsten ist in den Fokus gerückt. |
 | Mausrad                    | Zoomt die Kamera rein bzw. raus.                  |
 
-Kanten Selektieren:
+**Kanten Selektieren:**
 
 | Tastenkombination          | Ausgeführte Aktion                                |
 | -------------------------- | ------------------------------------------------- |
@@ -36,32 +38,37 @@ Kanten Selektieren:
 | Strg + Linke Maustaste     | Ein Klick auf eine Kante fügt diese zur Selektion hinzu.                   |
 | Shift + Linke Maustaste    | Ein Klick auf eine Kante fügt alle von der zuletzt markierten bis zur aktuellen zur Selektion hinzu. |
 
-Kanten Bewegen:
+**Kanten Bewegen:**
 >   Durch gedrückt halten der linken Maustaste beginnen auf einer
     Selektierten Kante oder einem Pfeil, der sich im Menü einschalten
     lässt, lässt sich die Auswahl Bewegen.
 
-Esc:
->   Öffnet im Spiel das Pausenmenü.
+**Weitere Funktionen:**
 
-C:
->   Ermöglicht das Färben markierter Kanten.
-
-F11:
->   Wechselt in den Vollbildmodus.
+| Tastenkombination          | Ausgeführte Aktion                                |
+| -------------------------- | ------------------------------------------------- |
+| Esc                        | Öffnet im Spiel das Pausenmenü.                   |
+| C                          | Ermöglicht das Färben markierter Kanten.          |
+| F11                        | Wechselt in den Vollbildmodus.                    |
 
 ## Menüführung
 
 Beim Start des Spiels landet man im Hauptmenü. Dort hat man die Auswahl zu:
 
-Creative:
-:   Hier dreht sich alles um das Erstellen und neuer Inhalte. Man kann einen neuen Knoten erstellen beginnend vom minimalen Knoten oder bereits erstellte laden und weiter bearbeiten. Hier sind auch schon ein paar Knoten zur Inspiration mitgeliefert. Auch das Erstellen neuer Herausforderungen findet hier statt. Einfach zwei unterschiedliche Knoten auswählen, auf der linken Seite den Ausgangsknoten und auf der rechten Seite das Ziel der Herausforderung, einen Namen eingeben und fertig.
+**Creative:**
+>   Hier dreht sich alles um das Erstellen und neuer Inhalte.
+    Man kann einen neuen Knoten erstellen beginnend vom minimalen Knoten oder bereits erstellte laden und weiter bearbeiten.
+    Hier sind auch schon ein paar Knoten zur Inspiration mitgeliefert.
+    Auch das Erstellen neuer Herausforderungen findet hier statt.
+    Einfach zwei unterschiedliche Knoten auswählen, auf der linken Seite den Ausgangsknoten und auf der rechten Seite das Ziel der Herausforderung, einen Namen eingeben und fertig.
 
-Challenge:
-:   Hier können die fertigen Herausforderungen betrachtet und gestartet werden. In der rechten Vorschau sieht man den Zielknoten, sowie einige Infos. Die Vorschau ist interaktiv und die Kamera kann wie im Spiel gedreht und bewegt werden.
+**Challenge:**
+>   Hier können die fertigen Herausforderungen betrachtet und gestartet werden.
+    In der rechten Vorschau sieht man den Zielknoten, sowie einige Infos.
+    Die Vorschau ist interaktiv und die Kamera kann wie im Spiel gedreht und bewegt werden.
 
-Settings:
-:   Hier finden sich alle Einstellungen zum Spiel.
+**Settings:**
+>   Hier finden sich alle Einstellungen zum Spiel.
 
 ## Tutorial
 
