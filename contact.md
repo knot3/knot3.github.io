@@ -8,7 +8,7 @@ title: Contact - Knot&sup3;
 Das Spiel Knot&sup3; ist ein Studentenprojekt des [![KIT]({{site.baseurl}}img/kit.ico "KIT") Karlsruher Instituts für Technologie](http://www.informatik.kit.edu/)
 und wird als nicht-kommerzielle Software unter einer [freien Lizenz](license.html) zur Verfügung gestellt.
 
-Während der Entwicklung im Wintersemester 2013/14 waren die folgenden Studenten in den angegebenen Aufgabengebieten an der Entwicklung beteiligt:
+Während dem Wintersemester 2013/14 waren die folgenden Studenten in den angegebenen Aufgabengebieten an der Entwicklung beteiligt:
 
 | Name              | Aufgabengebiet             | GitHub              | Website                        |
 | ----------------- | -------------------------- | ------------------- | ------------------------------ |
@@ -26,4 +26,3 @@ Beim Design des Spiels wurden wir von [G. Hoffmann](http://postdigital.hfg-karls
   Weitere Informationen zum Modul "Praxis der Softwareentwicklung" sind beim [Lehrstuhl für Computergrafik](http://cg.ivd.kit.edu/lehre/ws2013/pse/index.php)
 von Professor [Dachsbacher](http://cg.ivd.kit.edu/dachsbacher/index.php) und beim [Lehrstuhl Programmierparadigmen](http://pp.info.uni-karlsruhe.de/lehre/WS201314/pse/)
 von Professor [Snelting](http://pp.info.uni-karlsruhe.de/personhp/gregor_snelting.php) zu finden.
-Das PSE-Projekt des Lehrstuhl für Computergrafik zum Sommersemester 2014 ist [hier](http://cg.ivd.kit.edu/lehre/ss2014/pse/index.php) zu finden.
