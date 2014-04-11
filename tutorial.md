@@ -14,69 +14,37 @@ Wer etwas mehr Herausforderungen sucht und tolle Knoten anderer Spieler auf Zeit
 
 ## Standard Tastaturbelegung
 
-Kamerasteuerung:
-:   Die Kamera lässt sich mit der Tastatur und durch gedrückt halten der
-    rechten Maustaste steuern.
+Kamerasteuerung: Die Kamera lässt sich mit der Tastatur und durch gedrückt halten der rechten Maustaste steuern.
 
-    W / S:
-    :   Bewegt die Kamera in den Raum hinein bzw. hinaus.
-
-    A / D:
-    :   Bewegt die Kamera nach links und rechts.
-
-    R / F:
-    :   Bewegen die Kamera nach oben und unten.
-
-    Pfeiltasten Links / Rechts:
-    :   Drehen die Kamera um die Z-Achse. Dabei wird zunächst die Kante,
-        die der Maus am nächsten ist in den Fokus gerückt.
-
-    Pfeiltasten Hoch / Runter:
-    :   Ändert den Winkel der Kamera zu XY-Ebene. Es neigt die Kamera.
-        Dabei wird zunächst die Kante, die der Maus am nächsten ist in
-        den Fokus gerückt.
-
-    Q / E:
-    :   Zoomt die Kamera rein bzw. raus.
-
-    Enter:
-    :   Setzt die Kamera zurück.
-
-    Rechte Maustaste:
-    :   Durch das gedrückt halten kann man die Kamera sowohl drehen als
-        auch neigen. Dabei wird zunächst die Kante, die der Maus am
-        nächsten ist in den Fokus gerückt.
-
-    Mausrad:
-    :   Zoomt die Kamera rein bzw. raus.
+| W / S                      | Bewegt die Kamera in den Raum hinein bzw. hinaus. |
+| A / D                      | Bewegt die Kamera nach links und rechts.          |
+| R / F                      | Bewegt die Kamera nach oben und unten.            |
+| Pfeiltasten Links / Rechts | Drehen die Kamera um die Z-Achse. Dabei wird zunächst die Kante, die der Maus am nächsten ist in den Fokus gerückt. |
+| Pfeiltasten Hoch / Runter  | Ändert den Winkel der Kamera zu XY-Ebene. Es neigt die Kamera. Dabei wird zunächst die Kante, die der Maus am nächsten ist in den Fokus gerückt. |
+| Q / E                      | Zoomt die Kamera rein bzw. raus.                  |
+| Enter                      | Setzt die Kamera zurück.                          |
+| Rechte Maustaste           | Durch das gedrückt halten kann man die Kamera sowohl drehen als auch neigen. Dabei wird zunächst die Kante, die der Maus am nächsten ist in den Fokus gerückt. |
+| Mausrad                    | Zoomt die Kamera rein bzw. raus.                  |
 
 Kanten Selektieren:
-:   Linke Maustaste:
-    :   Ein Klick auf eine nicht markierte Kante macht diese zur
-        Selektierten.
 
-    Strg + Linke Maustaste:
-    :   Ein Klick auf eine Kante fügt diese zur Selektion hinzu.
-
-    Shift + Linke Maustaste:
-    :   Ein Klick auf eine Kante fügt alle von der zuletzt markierten
-        bis zur aktuellen zur Selektion hinzu.
-
-    Ein Klick in den leeren Raum hebt alle Selektionen auf.
+| Linke Maustaste            | Ein Klick auf eine nicht selektierte Kante fügt diese zur Selektion hinzu. Ein Klick in den leeren Raum hebt alle Selektionen auf. |
+| Strg + Linke Maustaste     | Ein Klick auf eine Kante fügt diese zur Selektion hinzu.                   |
+| Shift + Linke Maustaste    | Ein Klick auf eine Kante fügt alle von der zuletzt markierten bis zur aktuellen zur Selektion hinzu. |
 
 Kanten Bewegen:
-:   Durch gedrückt halten der linken Maustaste beginnen auf einer
+>   Durch gedrückt halten der linken Maustaste beginnen auf einer
     Selektierten Kante oder einem Pfeil, der sich im Menü einschalten
     lässt, lässt sich die Auswahl Bewegen.
 
 Esc:
-:   Öffnet im Spiel das Pausenmenü.
+>   Öffnet im Spiel das Pausenmenü.
 
 C:
-:   Ermöglicht das Färben markierter Kanten.
+>   Ermöglicht das Färben markierter Kanten.
 
 F11:
-:   Wechselt in den Vollbildmodus.
+>   Wechselt in den Vollbildmodus.
 
 ## Menüführung
 
